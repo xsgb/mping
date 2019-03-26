@@ -109,7 +109,7 @@ while :; do
 		status "$host"
 		printf \\n
 	done
-	# restore curpas
+	# restore curpos
 	printf "\\033[%dB\\033[u" "$LINENR"
 	sleep "$INTERVAL"
 done
