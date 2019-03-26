@@ -37,3 +37,7 @@ Environment variables:
 
 - ping6
 - ability to extend the list with other informations per hosts
+
+## Example
+
+![GIF showing an example usage of mping](mping-example.gif)
