@@ -1,7 +1,7 @@
 # mping
 
-mping is a multiple host ping that output host's status as list with color meaning status.
-mping requires nmap to display the ssh status, and could be easily extended to you needs.
+mping is a multiple host ping that output host's status as a list with color meaning status.
+mping requires **nmap** to display the ssh status and could be easily extended to you needs.
 
 ## Installation
 
@@ -14,7 +14,7 @@ sudo make install PREFIX=/usr/local/bin # if you want to make it system-wide
 ## How to use it
 
 ```
-mping host1 host2 host2 [...]
+mping hosts [...]
 ```
 Will show each host's status in a list with the corresponding color:
 
