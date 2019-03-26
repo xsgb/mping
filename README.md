@@ -1,7 +1,6 @@
 # mping
 
-mping is a multiple host ping that output host's status as a list with color meaning status.
-mping requires **nmap** to display the ssh status and could be easily extended to you needs.
+mping is a multiple hosts ping with colors. mping requires **nmap** to display the ssh status and could be easily extended to you needs.
 
 ## Installation
 
